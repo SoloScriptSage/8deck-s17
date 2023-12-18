@@ -17,7 +17,7 @@ The developer(s) shall **not be held responsible** for any **losses, consequence
 **❗Agreement❗**
 
 By using this software, you **agree** to the terms outlined in this disclaimer, including the understanding that the developer(s) are not liable for any legal or financial consequences arising from the use of this software.
-
+#
 # Blackjack Game with Basic Strategy Implementation 🃏
 
 Welcome to the console-based implementation of the classic Blackjack game in C++! This project showcases the application of basic Blackjack strategy principles, allowing players to experience optimal decision-making during gameplay.
